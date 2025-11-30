@@ -1,6 +1,6 @@
 # Hash Table
 
-A high-performance, memory-safe hash table implementation in C with **generic key support**, custom destructor support, and flexible APIs for different use cases.
+A performant, memory-safe hash table implementation in C with **generic key support**, custom destructor support, and flexible APIs for different use cases.
 
 Largely inspired by [Ben Hoyt's "How to implement a hash table (in C)"](https://benhoyt.com/writings/hash-table-in-c/) blog post.
 
@@ -339,3 +339,4 @@ Contributions are welcome! Please ensure:
 - No memory leaks (AddressSanitizer clean)
 - Code follows existing style
 - New features include tests
+
